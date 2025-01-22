@@ -40,6 +40,7 @@
             //}
 
 
+
             //Resolução2
 
                 if ((ladoA < ladoB + ladoC) && (ladoB < ladoA + ladoC) && (ladoC < ladoA + ladoB))
@@ -63,8 +64,6 @@
                 {
                     Console.WriteLine("Os valores informados não formam um triângulo.");
                 }
-
-
 
 
 
